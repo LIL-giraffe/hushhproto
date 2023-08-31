@@ -40,3 +40,7 @@
     text-transform: inherit;
     color: #5f6368;
 }
+
+.search_buttonsHidden{
+    display:none !important
+}

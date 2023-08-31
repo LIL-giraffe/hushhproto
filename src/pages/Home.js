@@ -21,10 +21,10 @@ const Home = () => {
                 </div>
             </div>
             <div className="home_body">
-                <img src="asset/getit-logo.png"
+                <img src="asset/cmi_1a99c09f.jpg"
                     alt="" />
                 <div className="home_inputContainer">
-                    <Search/>
+                    <Search  />
                     </div>    
             </div>
         </div>
